@@ -13,6 +13,9 @@ matplotlib>=3.0.0
 scipy>=1.0.0
 tabulate>=0.8.0
 
+lxml>=4.9.0
+lxml-html-clean>=0.1.0
+
 # Optional TensorFlow (Lighter CPU-only version)
 tensorflow-cpu>=2.12.0  # Wider version range
 
